@@ -1,0 +1,11 @@
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\bin\Debug\netcoreapp3.1\task-of-transfusion.exe
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\bin\Debug\netcoreapp3.1\task-of-transfusion.deps.json
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\bin\Debug\netcoreapp3.1\task-of-transfusion.runtimeconfig.json
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\bin\Debug\netcoreapp3.1\task-of-transfusion.runtimeconfig.dev.json
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\bin\Debug\netcoreapp3.1\task-of-transfusion.dll
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\bin\Debug\netcoreapp3.1\task-of-transfusion.pdb
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\obj\Debug\netcoreapp3.1\task-of-transfusion.csprojAssemblyReference.cache
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\obj\Debug\netcoreapp3.1\task-of-transfusion.AssemblyInfoInputs.cache
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\obj\Debug\netcoreapp3.1\task-of-transfusion.AssemblyInfo.cs
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\obj\Debug\netcoreapp3.1\task-of-transfusion.dll
+C:\Users\Helen Kravchuk\source\repos\task-of-transfusion\task-of-transfusion\obj\Debug\netcoreapp3.1\task-of-transfusion.pdb
